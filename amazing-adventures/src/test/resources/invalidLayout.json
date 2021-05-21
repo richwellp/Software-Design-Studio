@@ -1,0 +1,18 @@
+{
+  "startingRoom": "Bottom",
+  "endingRoom": "Here",
+  "rooms": [
+    {
+      "name" : "Meh",
+      "description" : "My room"
+    },
+    {
+      "name" : "Ohh",
+      "description" : "Basement"
+    },
+    {
+      "Name": null,
+      "Description" : "Test"
+    }
+  ]
+}

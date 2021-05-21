@@ -1,0 +1,14 @@
+{
+  "startingRoom": "Haus",
+  "endingRoom": "School",
+  "rooms": [
+    {
+      "name" : "Haus",
+      "description" : "My haus"
+    },
+    {
+      "name" : "School",
+      "description" : "My school"
+    }
+  ]
+}
